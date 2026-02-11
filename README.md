@@ -12,7 +12,7 @@
   <div>
     <h1>🧠Problem statement </h1>
     <ul>
-      <li> Give an n*m grid ,find the number of ways to reach the</li>
+      <li> Give an n*m grid ,find the number of ways to reach the destination cell starting from (O,O) while moving only <b>right</b> or<b>down</b></li>
     </ul>
   </div>
 </body>
