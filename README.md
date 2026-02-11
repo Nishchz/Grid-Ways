@@ -7,5 +7,6 @@
       <li>➡️ Right</li>
       <li>⬇️Down</li>
     </uL>
+  <P>This solution use <b> recursion</b> to expolre all possible paths</P>
   </div>
 </body>
