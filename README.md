@@ -20,7 +20,7 @@
     <ol>
       <li>Recursion</li>
       <li>Divide the problem into smaller subproblems</li>
-      <li>Add the number of paths from</li>
+      <li>Add the number of paths from :</li>
       <ul>
         <li> Moving right</li>
         <li> Moving down</li>
